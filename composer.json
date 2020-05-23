@@ -1,0 +1,25 @@
+{
+    "name": "leff/composer.leff",
+    "description": "Super HelloWorld!",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandr Yakovlev",
+            "email": "leffalt@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4" : {
+            "Otus\\" : "src/Otus"
+        }
+    },
+    "repositories":[
+        {
+            "type":"git",
+            "url":"http://github.com/pqr/superlogger"
+        }
+    ]
+
+}
