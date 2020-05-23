@@ -1,6 +1,7 @@
 {
     "name": "leff/composer.leff",
     "description": "Super HelloWorld!",
+    "homework": "https://github.com/leffo/composer.leff",
     "type": "project",
     "license": "MIT",
     "authors": [
@@ -9,17 +10,12 @@
             "email": "leffalt@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+            "php": ">=7.3.0"
+    },
     "autoload": {
         "psr-4" : {
             "Otus\\" : "src/Otus"
         }
-    },
-    "repositories":[
-        {
-            "type":"git",
-            "url":"https://github.com/leffo/composer.leff"
-        }
-    ]
-
+    }
 }
