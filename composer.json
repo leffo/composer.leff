@@ -18,7 +18,7 @@
     "repositories":[
         {
             "type":"git",
-            "url":"http://github.com/pqr/superlogger"
+            "url":"https://github.com/leffo/composer.leff"
         }
     ]
 
