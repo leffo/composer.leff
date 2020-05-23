@@ -2,8 +2,6 @@
     "name": "leff/composer.leff",
     "description": "Super HelloWorld!",
     "homepage": "https://github.com/leffo/composer.leff",
-    "type": "project",
-    "license": "MIT",
     "authors": [
         {
             "name": "Alexandr Yakovlev",
