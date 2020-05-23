@@ -1,7 +1,7 @@
-#COMPOSER LEARNING
+# composer.leff
 
-##This is a description package
+## hw3
 
+### Package description
 
-It's useful package for helloing to all World!
-
+OK! It's all!
